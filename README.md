@@ -1,2 +1,6 @@
-# EmojiCraft64
-coming soon😁
+# NodeCraft
+
+Still working on it...
+
+to execute:<b>node index.js</b>
+PS: node.js needs to be installed...
